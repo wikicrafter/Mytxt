@@ -1,0 +1,80 @@
+1. control
+
+This is a Run Command to quickly access Windows 10 Control Panel. However, some users are used to open the 
+Control Panel by Start menu or Windows 10 Power user menu.
+
+2. taskmgr
+
+This is a Run Command to open Task Manager as quickly as by right-clicking on the blank area of Windows 10 
+taskbar.
+
+3. cmd
+
+There are more options to open Command Prompt in Windows 10, this command is just one of shortcuts.
+
+4. netplwiz
+
+The common User Account is in Windows Control Panel, while this command opens the advanced User Accounts window.
+
+5. regedit
+
+A power user may need to open Registry Editor to make changes to Windows registry. With this command, you can 
+quickly access Registry Editor.
+
+6. lusrmgr.msc
+
+Running this command, you can open Local Users and Groups manager where you can edit properties of all your 
+users and groups.
+
+7. appwiz.cpl
+
+This Run Command quickly opens the Programs and Features window where you can uninstall programs and apps in 
+Windows 10.
+
+8. desk.cpl
+
+It's a shortcut allowing you to change your Windows screen resolution.
+
+9. powercfg.cpl
+
+Running this command will directly open the Power Options window which is buried in Control Panel.
+
+10. main.cpl
+
+This command can help you access Mouse Properties dialog where you can change settings of the mouse connected to 
+your computer.
+
+11. snippingtool
+
+If you are wondering How to Take Screenshots on Microsoft Surface Tablet, this Run Command is just the shortcut 
+to open Windows built-in Snipping Tool, with which you can not only take a screenshot but also edit the 
+screenshot.
+
+12. logoff
+
+This Run Command is a less known quick way to sign out of Windows 10.
+
+13. msconfig
+
+This command opens System Configuration dialog where you can change some of the system settings in Windows.
+
+14. diskmgmt.msc
+
+This Run Command helps you open Windows 10 Disk Management where you can manage the hard disk partition on your 
+computer.
+
+15. chrome/firefox/iexplore
+
+Running chrome or firefox command can launch Chrome or Firefox browser if it's installed on your Windows 10, and 
+the iexplore command can open Internet Explorer.
+
+16. calc: Open Windows built-in calculator app for you.
+
+17. compmgmt.msc: Open Computer Management window.
+
+18. gpedit.msc: Open Local Group Policy Editor.
+
+19. cleanmgr: Open Disk Cleanup utility.
+
+20. sysdm.cpl: Opens System Properties window.
+

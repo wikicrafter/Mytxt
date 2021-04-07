@@ -1,0 +1,5 @@
+Local group policy 
+then: computer configuration / system / Device guard / turn on virtualization based security 
+Dynamic lock 
+
+
