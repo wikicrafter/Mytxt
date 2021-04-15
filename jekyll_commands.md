@@ -1,5 +1,5 @@
 jekyll new example 
-
+---
 cd example 
 
 bundle exec jekyll server 
