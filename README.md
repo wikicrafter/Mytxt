@@ -1,3 +1,3 @@
 # Mytxt
 
-* Basic SSH command on PowerShell
+* Basic [SSH](SSHconnection.md) command on PowerShell
