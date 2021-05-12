@@ -7,7 +7,6 @@ Main nano help text
  file being edited.  The status line is the third line from the bottom and
  shows important messages.  The bottom two lines show the most commonly used
  shortcuts in the editor.
-
  The notation for shortcuts is as follows: Control-key sequences are notated
  with a caret (^) symbol and can be entered either by using the Control (Ctrl)
  key or pressing the Escape (Esc) key twice.  Escape-key sequences are notated
