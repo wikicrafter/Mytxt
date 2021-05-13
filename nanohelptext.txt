@@ -1,5 +1,5 @@
 Main nano help text
------------------------------------------------------------------------------
+------------------------------------------------------------------------------
  The nano editor is designed to emulate the functionality and ease-of-use of
  the UW Pico text editor.  There are four main sections of the editor.  The top
  line shows the program version, the current filename being edited, and whether
