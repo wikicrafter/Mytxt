@@ -7,7 +7,7 @@ Control Panel by Start menu or Windows 10 Power user menu.
 2. taskmgr
 
 This is a Run Command to open Task Manager as quickly as by right-clicking on the blank area of Windows 10 
-taskbar.
+taskbar
 
 3. cmd
 
