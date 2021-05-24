@@ -34,9 +34,9 @@ Main nano help text
 M-\     (M-|)           Go to the first line of the file
 M-/     (M-?)           Go to the last line of the file
 
-^_      (F13)   (M-G)   Go to line and column number
-^\      (F14)   (M-R)   Replace a string or a regular expression
-^^      (F15)   (M-A)   Mark text at the cursor position
+     (F13)   (M-G)   Go to line and column number
+      (F14)   (M-R)   Replace a string or a regular expression
+     (F15)   (M-A)   Mark text at the cursor position
 M-W     (F16)           Repeat last search
 
 M-^     (M-6)           Copy the current line and store it in the cutbuffer
