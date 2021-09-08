@@ -128,3 +128,5 @@ _____________________________________________________________________________
 
 for /f %F in ('dir /b /a-d ^| findstr /vile ".tiff .jpg"') do del "%F"  </br>
 In the example above, the command is deleting all files in the current directory, except files with the file extension .tiff and .jpg.
+</br> For linux u can use: </br>
+find . -type f ! -iname "*.tiff" -delete
