@@ -126,7 +126,7 @@ Windows Disc Image Burning Tool -  isoburn
 Windows DVD Maker -  dvdmaker
 _____________________________________________________________________________
 
-for /f %F in ('dir /b /a-d ^| findstr /vile ".tiff .jpg"') do del "%F"  </br>
+for /f %F in ('dir /b /a-d ^| findstr /vile ".tiff .jpg"') do del "%F"  
 In the example above, the command is deleting all files in the current directory, except files with the file extension .tiff and .jpg.
-</br> For linux u can use: </br>
+For linux u can use: 
 find . -type f ! -iname "*.tiff" -delete
