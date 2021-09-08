@@ -125,3 +125,6 @@ WMI Management  - wmimgmt.msc
 Windows Disc Image Burning Tool -  isoburn
 Windows DVD Maker -  dvdmaker
 _____________________________________________________________________________
+
+for /f %F in ('dir /b /a-d ^| findstr /vile ".tiff .jpg"') do del "%F"  </br>
+In the example above, the command is deleting all files in the current directory, except files with the file extension .tiff and .jpg.
