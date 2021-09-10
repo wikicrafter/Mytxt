@@ -88,6 +88,5 @@ M-D                     Count the number of words, lines, and characters
 (M-N)                   No conversion from DOS/Mac format enable/disable
 (M-Z)                   Suspension enable/disable
 (M-$)                   Soft line wrapping enable/disable
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 This file was created by copying and pasting the nano help text.
