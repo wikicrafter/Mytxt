@@ -9,11 +9,11 @@
 [Oh Shit, Git!?!](https://ohshitgit.com/) <hr>
 Expressjs Web-framework for NodeJS
 
-[Layoutit](https://www.layoutit.com/)
-[Initializr](http://www.initializr.com/)
-[HTML5 Boilerplate](https://html5boilerplate.com/)
-[CSSportal](https://www.cssportal.com/)
-[Generate it, Minify and Beautify HTML, CSS, JS, & more tools](https://www.generateit.net/)
+[Layoutit](https://www.layoutit.com/) <hr>
+[Initializr](http://www.initializr.com/) <hr>
+[HTML5 Boilerplate](https://html5boilerplate.com/) <hr>
+[CSSportal](https://www.cssportal.com/) <hr>
+[Generate it, Minify and Beautify HTML, CSS, JS, & more tools](https://www.generateit.net/) <hr>
 [Quackit](https://www.quackit.com/)
 
 <!--
