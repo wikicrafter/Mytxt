@@ -4,7 +4,7 @@ cd example
 
 bundle exec jekyll server 
 
-jem install bundle / it must be installed 
+jem install bundler / it must be installed 
 
 if ther is a error: bundle add webrick 
 
