@@ -4,7 +4,7 @@
 | app/assets    | This folder contains static files required for application's front-end grouped into folders based on their type. |
 | app/controllers  |All the controller files are stored here. A controller handles all the web requests from the user. |
 |app/helpers |It contains all the helper functions to assist MVC(Model View Controller) |
-|    |   |
+| app/mailers   |It contains mail specific functions for the application.   |
 |    |   |
 |    |   |
 |    |   |
