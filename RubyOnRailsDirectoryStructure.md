@@ -1,4 +1,5 @@
-| Filter |:Description:|
+| Filter |Description|
+| ------------- |:-------------:|
 | app      |It works as the remainder of this directory. Basically it organizes our applcation components. It 
 holds MVC       |
 | app/assets    | This folder contains static files required for application's front-end grouped into folders 
