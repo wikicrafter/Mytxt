@@ -1,0 +1,57 @@
+Accounting vs bookkeeping
+Bookkeeping is a system to capture/collect data
+Financial accounting - The organization of raw data into summery reports
+Assets are:
+Cash, Land, Trucks, Equipments , Etc.
+Liabilities is a: Bank loans, Taxes owed, Wages owed
+
+----------------
+Definition of some financial statement
+Income statement is a - report of how much money the company is making 
+Cash flow statement means - A report of company's cash receipt  and cash payment 
+accounting equation: Assets = Liabilities + Equity 
+Borrowed = Liability | Invested by owners = Equity
+
+Primary financial statement:
+Balance sheet - a list of company's resources/assets and obligations/liability 
+Asset is - tengible thing or intengible right that company owns/controls that is expected to generate benefits 
+
+Operating cash flows - everyday transaction 
+investing cash flows - investments in the productive capacity 
+Financial activities - Getting money to repay loans and pay dividends
+---
+Incom statement contains 2 items:
+Revenuse and Expenses | Revenuse - Expenses = Net Income
+----
+Debits and credits
+Rules for debits and credits:
+Increases and assets on the left side of the page
+Liabilities and equities on the right side of the page
+---
+Assets = Liabilities + equities
+Increase | Decrease = Debit | Credits
+
+Assets | Liabilities | Equity 
+             debit   | credit 
+        increase | decrease 
+
+---
+accounting journal
+---
+Lease - a contract specifying the terms under which the owner of some property transfers the right to use the property to someone else, without transferring legal ownership.
+
+---
+EPS (Earnings per share):
+The amount of net income divided by the number of ownership shares in the company 
+---
+Return on Equity (ROE):
+A measure of the amount of profit earned per dollar of owner investment 
+Income / Equity = ROE
+
+---
+Assets to Equity:
+The number of dollars of assets purchased for each dollar of owner investment in the company
+Operating cycle:
+The length of time from when the company buys its inventory until when the company collects the cash associated with selling that inventory
+
+
