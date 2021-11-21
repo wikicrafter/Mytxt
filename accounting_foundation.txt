@@ -55,3 +55,9 @@ Operating cycle:
 The length of time from when the company buys its inventory until when the company collects the cash associated with selling that inventory
 
 
+--- 
+Assets are what a company owns. It may be helpful to think of assets as all of the resources a company has at its disposal: namely, the vehicles, cash, supplies, and equipment a company owns at that given point in time. Assets can be tangible (a plant, equipment) and intangible (patents, trademarks, goodwill).
+
+Liabilities are any amount that is owed to others at the time of the balance sheet's creation. Liabilities can include loans that must be paid back, any money that is owed for supplies given on credit, and any wages owed to employees that have not yet been paid.
+
+Equity is the difference between the assets and the liabilities. Equity is sometimes thought of as the "book value" of a company or business. If the company is a large corporation, the equity may belong to stockholders; if the business is owned by one single person, then the equity is an Owner's Equity.
