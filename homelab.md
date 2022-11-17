@@ -47,7 +47,7 @@ The FreeNAS Project is an open source storage operating system (OS) that allows 
 ##### Note it's called now a TrueNAS
 It designed as a Network Attached Storage - NAS
 
-#### Steps u need: 
+## Next Steps u need: 
 * Networking 
 * Sysadmin 
 * Windows and Linux server
