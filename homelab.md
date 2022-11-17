@@ -35,3 +35,8 @@ My recoomendention is: build your lab according your needs
 
 #### KVM Switches
 What is a KVM Switch? A Keyboard-Video-Mouse (KVM) switch allows a user to control more than one computer with a single keyboard, mouse, and monitor user station (often referred to as a "console"). Users can manage and access thousands of computers or servers from a single "console".
+
+
+## QEMU  & KVM
+* KVM is a linux kernel virtual machine
+* QEMU provides emulation tools and standard virtual hardware for VM
