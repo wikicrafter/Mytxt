@@ -24,3 +24,14 @@ Tupe 1 hypervisors guarantee that your guest virtual machines have access to mor
 * Good choice for small services and quick scalling 
 * Create manual or orchestrate with software like Kubernets 
 
+## Planning LAB resources 
+* Don't under or overprovision your lab
+* Look for clever tricks to conserve resources 
+
+## VM Host resources 
+* Many VMs don't use all the resources allocated to them all the time 
+
+My recoomendention is: build your lab according your needs 
+
+#### KVM Switches
+What is a KVM Switch? A Keyboard-Video-Mouse (KVM) switch allows a user to control more than one computer with a single keyboard, mouse, and monitor user station (often referred to as a "console"). Users can manage and access thousands of computers or servers from a single "console".
