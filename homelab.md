@@ -2,7 +2,7 @@
 Hypervisors 
 Type 1 <br>
 #### Runs natively on host hardware. Some examples:
-* Proxmox 
+* Proxmox - It's free 
 * ESXi
 * Xen 
 * Nutanix AHV 
@@ -40,3 +40,15 @@ What is a KVM Switch? A Keyboard-Video-Mouse (KVM) switch allows a user to contr
 ## QEMU  & KVM
 * KVM is a linux kernel virtual machine
 * QEMU provides emulation tools and standard virtual hardware for VM
+
+
+### Use FreeNAS 
+The FreeNAS Project is an open source storage operating system (OS) that allows the sharing of storage over a network. It was created in 2005 and is based on the open source FreeBSD OS and the OpenZFS OS. FreeNAS software can be downloaded at no cost from freenas.org, and runs on most x86-64 commodity hardware.
+##### Note it's called now a TrueNAS
+It designed as a Network Attached Storage - NAS
+
+#### Steps u need: 
+* Networking 
+* Sysadmin 
+* Windows and Linux server
+* DevOps, orchestration and more
