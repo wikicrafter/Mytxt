@@ -52,3 +52,7 @@ It designed as a Network Attached Storage - NAS
 * Sysadmin 
 * Windows and Linux server
 * DevOps, orchestration and more
+
+
+
+<progress></progress>
