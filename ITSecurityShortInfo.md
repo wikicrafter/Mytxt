@@ -5,3 +5,54 @@
 ![image](https://user-images.githubusercontent.com/22988682/202808101-b7e59b13-9757-40d0-b6ce-f7dc31774652.png)
 ![image](https://user-images.githubusercontent.com/22988682/202808491-b1e471fb-8e99-4d83-ba30-1244642b36ca.png)
 ![image](https://user-images.githubusercontent.com/22988682/202809252-57d98cc3-689f-4cf2-b4e9-f25ebb631ea3.png)
+<hr>
+Strong understanding in:
+* IP networking
+* Firewalls 
+* Cryptography 
+
+##### IP Network Concepts 
+* IP datagram constructed 
+* IP address work
+* IP routing 
+*  7 layer of the OSI model 
+
+##### Main internet protocols 
+* DHCP
+* DNS 
+* FTP
+* HTTP
+* NTP
+* SNMP
+* SSH
+* TLS/SSL
+* TCP
+* UDP
+* IPv4 and v6
+* ICMP
+* IPsec
+* ARP
+* MAC
+
+##### IP Network attacks 
+* Eavesdropping attack 
+* IP address spoofing 
+* Denial-of-service attack DOS
+* Sniffer attack 
+* Man-in-the-middle attack 
+
+
+#### Firewall Concepts
+* Types of firewall 
+* Firewall placement 
+* Firewall ruleset and packet filtering
+* Well-known ports
+* Network layer vs application layer
+* How NAT protects hosts
+
+#### Firewall Attacks 
+* Brute force 
+* Default passwords 
+* Firewall vulnerability 
+* Misconfigured firewalls
+* Protection from DDoS attacks 
