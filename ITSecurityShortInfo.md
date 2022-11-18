@@ -34,6 +34,8 @@ Strong understanding in:
 * ARP
 * MAC
 
+#### Foundational 
+
 ##### IP Network attacks 
 * Eavesdropping attack 
 * IP address spoofing 
@@ -56,3 +58,17 @@ Strong understanding in:
 * Firewall vulnerability 
 * Misconfigured firewalls
 * Protection from DDoS attacks 
+
+#### Cryptography Concepts
+* Common algorithms 
+* Secret key vs public key 
+* Digital signature
+* Certificate authorities (CA) etc
+
+##### Cryptography attacks 
+* Brute force
+* Rainbow tables 
+* Birthday 
+* Weakness exploits 
+* Side channel 
+
