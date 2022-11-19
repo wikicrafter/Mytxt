@@ -72,3 +72,21 @@ Strong understanding in:
 * Weakness exploits 
 * Side channel 
 
+
+#### Cybersecurity threats 
+* Intrusion 
+* Hacking
+* Viruses 
+* Theft 
+* Attacks
+* Phishing 
+* Security breakdown
+* Cyberthreats 
+
+* Ransomware Threats 
+* Cryptojacking: Malicious crypto mining 
+
+<br> Unauthorized use of a computer to mine cryptocurrency 
+<br> Difficult to detect and defend against it
+<br> Dive deep on Cybersecurity threat landscape 
+
