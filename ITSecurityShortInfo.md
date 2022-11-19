@@ -90,3 +90,11 @@ Strong understanding in:
 <br> Difficult to detect and defend against it
 <br> Dive deep on Cybersecurity threat landscape 
 
+
+#### Constant learning benefits 
+* Stay ahead of technology curve
+* Allows security assessment of new technologies 
+* Help organizations react swiftly to emerging threats
+
+
+
