@@ -100,3 +100,5 @@ Strong understanding in:
       
 [Technical Certifications](https://user-images.githubusercontent.com/22988682/202922438-afaf6fe5-46fb-41ef-a3af-30f7ef724e45.png)
 
+[Engineer Skills](https://user-images.githubusercontent.com/22988682/202924764-3cc6a98e-b8f9-4041-b44d-7579c151526c.png)
+
