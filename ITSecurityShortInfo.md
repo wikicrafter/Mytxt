@@ -98,3 +98,5 @@ Strong understanding in:
 
 [Careers](https://user-images.githubusercontent.com/22988682/202921878-b825f331-dd94-4b1d-b8ed-2b2e40c094cc.png)
       
+[technical Certifications](https://user-images.githubusercontent.com/22988682/202922438-afaf6fe5-46fb-41ef-a3af-30f7ef724e45.png)
+
