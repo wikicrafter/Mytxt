@@ -96,5 +96,5 @@ Strong understanding in:
 * Allows security assessment of new technologies 
 * Help organizations react swiftly to emerging threats
 
-
-
+[Careers](https://user-images.githubusercontent.com/22988682/202921878-b825f331-dd94-4b1d-b8ed-2b2e40c094cc.png)
+      
