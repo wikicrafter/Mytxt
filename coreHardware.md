@@ -14,3 +14,4 @@ Power Supply Wires:
 yello wire provide 12 volt, red one provides 5 volt, orange 3.3 volt <br>
 atx12v <br> SATA power connection <br> PCIE connector  
 <br> New style of power supply: Modular Power Supply 
+<hr>
