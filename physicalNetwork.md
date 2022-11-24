@@ -15,3 +15,8 @@ Ethernet Frame:
 * DATA 
 * PAD
 * FCS (Frame Check Sequence)
+
+
+##### CSMA/CD = Carrier Sense Multiple Access / Collision Detection 
+<br>
+
