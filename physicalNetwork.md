@@ -19,4 +19,4 @@ Ethernet Frame:
 
 ##### CSMA/CD = Carrier Sense Multiple Access / Collision Detection 
 <br>
-
+<hr>
