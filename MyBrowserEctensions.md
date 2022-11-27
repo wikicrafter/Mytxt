@@ -5,4 +5,5 @@
 3. HTTPS everywhere
 4. UltraSurf security
 5. Startpage search engine 
-
+6. CodeBeautify
+7. Influencer: Productive & Motivational
