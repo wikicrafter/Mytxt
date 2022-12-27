@@ -19,6 +19,8 @@ Website Security [MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-sid
 
 [Vulnerability Scanning Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
 
+Common [Questions](https://developer.mozilla.org/en-US/docs/Learn/Common_questions#tools_and_setup)
+
 <hr>
 
 * IT side: <hr>
