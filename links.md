@@ -15,6 +15,10 @@ Expressjs Web-framework for NodeJS <hr>
 [Generate it, Minify and Beautify HTML, CSS, JS, & more tools](https://www.generateit.net/) <hr>
 [Quackit](https://www.quackit.com/)
 
+Website Security [MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
+
+[Vulnerability Scanning Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
+
 <hr>
 
 * IT side: <hr>
