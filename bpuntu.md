@@ -71,3 +71,20 @@ In practice, understanding how to design and implement algorithms requires:
 Good design and implementation of algorithms is crucial for writing efficient and effective software. 
 An inefficient algorithm can lead to slow performance, while a poorly-implemented algorithm can contain errors or 
 bugs that make the program unreliable.
+
+### Let's clarify different techniques and approaches to solving the problem:
+
+#### There are many different techniques and approaches that can be used to solve problems with technology. Some of the most commonly used 
+techniques include:
+
+1. Brute force: This approach involves trying all possible solutions to a problem and choosing the best one. It can be efficient for small problems, but it may be impractical for large or complex problems.
+2. Divide and conquer: This approach involves breaking a large problem down into smaller subproblems that can be solved independently, and then combining the solutions to the subproblems to find the solution to the original problem.
+3. Greedy algorithms: This approach involves making the locally optimal choice at each step with the hope of finding a global optimal solution.
+4. Dynamic programming: This approach involves breaking down a problem into overlapping subproblems and using the solutions to these subproblems to build up a solution to the original problem.
+5. Heuristics: This approach involves using informed trial-and-error to find a good solution to the problem. Heuristics algorithms often use problem-specific information or knowledge to guide the search.
+6. Machine learning: This approach uses statistical techniques to enable a system to learn from data, without being explicitly programmed.
+7. Backtracking : This is an approach of building solution incrementally, where each step is chosen by checking if it leads towards a solution or not. If it does not, it backtracks to previous step and chooses a different option.
+8. Randomized Algorithms: It uses randomness in its approach to find the solution. It can work well in situations where finding an exact solution is difficult or impossible.
+
+These techniques and approaches can be used in combination or in conjunction with each other to solve a particular problem. Selecting the right technique or approach depends on the specific problem and the resources available. 
+
