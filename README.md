@@ -1,5 +1,6 @@
 # Mytxt
 
+* [Clarify](bpuntu.md) 
 * Some [Algorithms](algorithmsDef.md)
 * Core [Hardware](coreHardware.md)
 * Basic [SSH](SSHconnection.md) command on PowerShell
