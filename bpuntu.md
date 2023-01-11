@@ -52,4 +52,13 @@ the condition is true or false.
 In summary, Control flow constructs are used to control the order in which instructions are executed in a program, making the program more flexible and adaptable to changing inputs and situations.
 
 ___
+## Algorithms: understanding how to design and implement algorithms to solve problems:
 
+An algorithm is a set of instructions that can be followed in order to solve a specific problem or accomplish a specific task. 
+To design and implement an algorithm, one must first understand the problem to be solved, and then determine the steps that are 
+needed to solve it
+
+The process of designing an algorithm can involve breaking down the problem into smaller subproblems, identifying any patterns or structures in the data, 
+and selecting the appropriate data structures and algorithms to use. Once the algorithm has been designed, it can then be implemented in a specific programming language.
+
+In practice, understanding how to design and implement algorithms requires:
