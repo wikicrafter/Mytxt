@@ -128,3 +128,5 @@ There are several main topics that are important to know when working with any p
 17. Debugging: Understanding common debugging techniques and tools for troubleshooting code.
 18. Performance: Understanding how to optimize the performance of code and how to measure performance.
 19. Best practices: Understanding common coding conventions and best practices for writing clean, maintainable, and readable code.
+
+This list is not exhaustive and the specific topics that are important to know will depend on the language, the type of project you are working on and your specific use case.
