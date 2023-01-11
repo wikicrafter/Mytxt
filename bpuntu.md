@@ -62,3 +62,12 @@ The process of designing an algorithm can involve breaking down the problem into
 and selecting the appropriate data structures and algorithms to use. Once the algorithm has been designed, it can then be implemented in a specific programming language.
 
 In practice, understanding how to design and implement algorithms requires:
+1. Understanding of the problem domain, its constraints and requirements.
+2. Understanding of core data structures and basic algorithms that can be used to solve the problem.
+3. Understanding of different techniques and approaches to solving the problem.
+4. Problem solving skills to devise a plan that can solve the problem.
+5. Skills to implement the algorithm using a specific programming language.
+
+Good design and implementation of algorithms is crucial for writing efficient and effective software. 
+An inefficient algorithm can lead to slow performance, while a poorly-implemented algorithm can contain errors or 
+bugs that make the program unreliable.
