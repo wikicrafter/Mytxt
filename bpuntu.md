@@ -41,3 +41,15 @@ for example some languages are strong typed and some are weak typed, etc.
 
 ___
 ## Let's dive deeper with control flow:
+Control flow refers to the order in which the instructions in a program are executed. 
+Constructs like loops and conditionals are used to control the flow of execution in a program by allowing the developer to specify different actions 
+to be taken based on different conditions or to repeat actions a certain number of times.
+
+For example, a loop can be used to iterate over a collection of data, and perform a certain action for each item in the collection. 
+A conditional statement, such as an if-else statement, can be used to check a condition and determine which block of code to execute based on whether 
+the condition is true or false.
+
+In summary, Control flow constructs are used to control the order in which instructions are executed in a program, making the program more flexible and adaptable to changing inputs and situations.
+
+___
+
