@@ -98,3 +98,8 @@ Being able to implement an algorithm in a specific programming language is an im
 5. Experience with version control: Version control systems like Git are used to keep track of different versions of the code and to collaborate with other developers. 
 
 A developer can improve their skills in implementing algorithm by regularly practicing implementing algorithms, studying the implementation of algorithms in different languages, reading code written by other experienced programmers, and participating in coding challenges and competitions. Additionally, taking a course on algorithms or data structures, which will go over fundamental concepts and provide practice implementing them in a specific language.
+
+___
+
+## The role of understanding the specific syntax of the programming language you are using, including its keywords, operators, and grammar:
+Syntax refers to the specific rules and structure of a programming language, including its keywords, operators, and grammar. This is important because the syntax of a language determines how code is written and how the computer will interpret it. When a programmer writes code that does not adhere to the syntax of the language, the code will not compile or execute properly, and the programmer will receive error messages. Understanding the syntax of a programming language is a fundamental part of writing code in that language.
