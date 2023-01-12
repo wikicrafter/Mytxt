@@ -45,3 +45,9 @@ It's important to note that different DEXs have different trading fees, and you 
 
 
 
+
+### Find the trading pair for your ERC20 token and ETH:
+* Each decentralized exchange (DEX) has its own user interface, but you should be able to find a trading pair for your ERC20 token and Ethereum (ETH) on most DEXs. The process of finding the trading pair may vary slightly depending on the DEX, but it typically involves searching for your ERC20 token by its ticker symbol or name and then selecting the trading pair with ETH.
+* For example, on Uniswap, you would go to the "Exchange" page, then enter the ERC20 token's contract address or symbol, then select the trading pair with ETH, then enter the amount of ERC20 token you want to exchange, then confirm the trade, and the system will automatically calculate the equivalent amount of ETH you will receive.
+* It's important to note that not all DEXs will have trading pairs for all ERC20 tokens, so you may need to check multiple DEXs to find a trading pair for your specific token. Additionally, you should also check the trading pair's liquidity before making a trade, as a low liquidity can cause slippage and a difference in the final price that you get for your ERC20 token.
+
