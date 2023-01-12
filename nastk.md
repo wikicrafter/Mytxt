@@ -33,3 +33,22 @@ Here are some additional details on how specific protocols and technologies oper
 This is a high-level summary of how different protocols and technologies operate at each layer of the OSI model, and a network administrator should have a deep understanding of the protocols and technologies that are used in their network.
 
 
+___
+
+### Securing a network against threats such as hacking, malware, and viruses is a complex process that involves multiple layers of defense. Some steps that can be taken to secure a network include:
+* Firewall: A firewall is a device or software that controls access to a network. It can be configured to block incoming traffic from known malicious sources, and to allow traffic from trusted sources.
+* Network Segmentation: Network segmentation is the process of dividing a network into smaller segments, or subnets. This can help to limit the spread of malware or a hacker's access to the network.
+* Virtual Private Network (VPN): A VPN is a secure connection between two or more devices that is created over the internet. It can be used to allow remote employees to access a company's network securely.
+* Antivirus and Anti-malware software: Antivirus and anti-malware software should be installed on all devices that connect to the network, including servers, workstations, and mobile devices. These programs can detect and remove malware, viruses, and other malicious software.
+* Patch management: Regularly applying software updates and patches can help to close security vulnerabilities that are discovered in the software.
+* Access Control: Setting up an access control system such as a login/password to control access to the network, devices and resources.
+* Network monitoring: Regularly monitoring the network and devices can help to detect unusual activity or suspicious traffic.
+* Employee education: Training employees on security best practices and the importance of security can help to reduce the risk of human error, which can lead to security breaches.
+* Backups: Regularly backing up important data can help to minimize the impact of a security breach or other disaster.
+
+These are just a few examples of the steps that can be taken to secure a network against threats such as hacking, malware, and viruses. A network administrator should also stay current with the latest security threats, best practices and technologies to keep the network safe.
+
+It's important to note that securing a network is an ongoing process, as new threats and vulnerabilities are constantly being discovered. It's also important to have an incident response plan in case of a security incident.
+
+
+
