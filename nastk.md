@@ -86,5 +86,36 @@ Network troubleshooting refers to the process of identifying and resolving issue
 * Remote management and monitoring: These tools can be used to remotely access and manage network devices, allowing administrators to troubleshoot issues from a central location. Examples include SSH, Telnet and SNMP
 * Network troubleshoot commands : these tools can be used to run diagnostic commands on network devices in order to identify the root cause of problems, examples include: ping, traceroute, nslookup, netstat and so on.
 
+___
+Here are some commonly used network troubleshooting commands for Windows:
+* ping: This command is used to test the connectivity between two network devices. It sends an ICMP echo request packet to a specified IP address and waits for an
+ICMP echo reply. If the reply is received, the device is considered reachable and the ping command will display the round trip time (RTT) and packet loss statistics.
+
+* tracert: This command is used to trace the route that packets take from a source device to a destination device. It sends a series of ICMP echo request packets and records the IP address and RTT of each device in the path. This can be used to identify network bottlenecks or connectivity issues.
+
+* ipconfig: This command is used to display the current IP configuration of a device, including IP address, subnet mask, and default gateway. It can also be used to release and renew DHCP leases, and flush the DNS cache.
+
+* nslookup: This command is used to query DNS servers for information about a specified domain name, such as IP addresses, MX records, and CNAME records. It can be used to troubleshoot issues related to DNS resolution.
+
+* netstat: This command is used to display information about the current network connections on a device, including the local and remote IP addresses, protocol, and state. It can be used to identify open ports, active connections, and potential security risks.
+
+* route: This command is used to display and modify the routing table of a device. It can be used to add, delete and modify the routes, it also can be used to check the status of the routes.
+
+These are just a few examples of the many network troubleshooting commands available on Windows. It's always helpful to have a good understanding of the network infrastructure and topology in order to use these commands effectively.
+
+___
+
+Here are some commonly used network troubleshooting commands for Linux:
+* ping : This command is used to test the connectivity between two network devices. It sends an ICMP echo request packet to a specified IP address and waits for an ICMP echo reply. If the reply is received, the device is considered reachable and the ping command will display the round trip time (RTT) and packet loss statistics.
+* traceroute : This command is used to trace the route that packets take from a source device to a destination device. It sends a series of ICMP echo request packets and records the IP address and RTT of each device in the path. This can be used to identify network bottlenecks or connectivity issues.
+* ifconfig : This command is used to display the current IP configuration of a device's network interface, including IP address, netmask, and status. It can also be used to configure and activate/deactivate interfaces.
+* nslookup : This command is used to query DNS servers for information about a specified domain name, such as IP addresses, MX records, and CNAME records. It can be used to troubleshoot issues related to DNS resolution.
+* netstat : This command is used to display information about the current network connections on a device, including the local and remote IP addresses, protocol, and state. It can be used to identify open ports, active connections, and potential security risks.
+* route : This command is used to display and modify the routing table of a device. It can be used to add, delete and modify the routes, it also can be used to check the status of the routes.
+* tcpdump : This command is used to capture and analyze network packets. It can be used to troubleshoot network issues by capturing and analyzing packet data to identify patterns and trends.
+* iptables : This command is used to configure and manage the Linux kernel's built-in firewall. It can be used to create and manage firewall rules, which are used to control incoming and outgoing network traffic.
+
+These commands are most commonly used for network troubleshooting in Linux, but there are many other command line tools available to help you troubleshoot network issues. It's always helpful to have a good understanding of the network infrastructure and topology in order to use these commands effectively.
+
 
 
