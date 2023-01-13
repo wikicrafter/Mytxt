@@ -73,5 +73,18 @@ A firewall is a key element in a network's security infrastructure, it is import
 
 
 
+___
+
+### Network monitoring and troubleshooting
+Network monitoring refers to the process of monitoring and assessing network performance in order to identify and resolve potential issues. This can include monitoring network traffic, performance metrics, and system logs to detect and diagnose problems such as network congestion, security breaches, and software bugs.
+
+Network troubleshooting refers to the process of identifying and resolving issues with a network. This can include analyzing network data, running diagnostic tests, and identifying the root cause of problems.
+
+#### There are various tools available for network monitoring and troubleshooting, including:
+* Network monitoring software: These tools can be used to monitor network performance, traffic, and system logs, and provide alerts when potential issues are detected. Examples include Nagios, PRTG Network Monitor, and Zabbix.
+* Network analyzers: These tools can be used to analyze network traffic and identify potential issues such as bottlenecks or security breaches. Examples include Wireshark, tcpdump, and Netflow.
+* Remote management and monitoring: These tools can be used to remotely access and manage network devices, allowing administrators to troubleshoot issues from a central location. Examples include SSH, Telnet and SNMP
+* Network troubleshoot commands : these tools can be used to run diagnostic commands on network devices in order to identify the root cause of problems, examples include: ping, traceroute, nslookup, netstat and so on.
+
 
 
