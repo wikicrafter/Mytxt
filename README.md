@@ -11,6 +11,7 @@
 * Change [DNS](cdowwt.md) on Windows with commandline 
 * Net [speed](cnswwmic.md) with WMIC command
 * Flash network connection with [CMD](DATNLWCMD.md)
+* [Netsh wlan](netshwlan.md)
 
 
 <hr>
