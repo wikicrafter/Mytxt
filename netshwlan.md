@@ -22,3 +22,7 @@ Troubleshoot Wi-Fi connection problems:
  Renew the IP address: If you are having trouble accessing the internet or other network resources, you may need to renew your IP address. You can do this using the following command:
 
  ## netsh interface ip reset "Wi-Fi"
+ 
+ ## Show Wi-Fi pwd
+ * netsh wla show profile WiFiName key=clear
+
