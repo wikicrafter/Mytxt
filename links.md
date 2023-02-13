@@ -57,6 +57,9 @@ Common [Questions](https://developer.mozilla.org/en-US/docs/Learn/Common_questio
 
 [Conic CSS gradient background ](https://www.conic.style/)
 
+
+* [JavaScript Book](https://eloquentjavascript.net/)
+
 <!--
 []()
 []()
