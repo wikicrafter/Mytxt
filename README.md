@@ -9,6 +9,7 @@
 * IT Security [Notes](ITSecurityShortInfo.md)
 * HTTP [def](httpdef.md)
 * Change [DNS](cdowwt.md) on Windows with commandline 
+* Net [speed](cnswwmic.md) with WMIC command
 
 
 <hr>
