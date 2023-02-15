@@ -23,3 +23,26 @@
 </li>
 </ol>
 <p>Once you have created the rules to allow the websites you want, all other websites will be blocked.</p>
+
+
+___
+
+To unblock the websites and reset the configuration, you can use the netsh command to delete the rules that you created. Here's how to do it:
+
+Open an elevated Command Prompt by right-clicking on the Command Prompt shortcut and selecting "Run as administrator".
+
+To delete the rule that blocks all websites, enter the following command:
+
+javascript
+Copy code
+netsh advfirewall firewall delete rule name="Block All Websites"
+To delete a rule that allows traffic to a specific website, enter the following command:
+
+javascript
+Copy code
+netsh advfirewall firewall delete rule name="Allow example.com"
+Replace example.com with the name of the rule you want to delete.
+
+Repeat step 3 for each rule that you want to delete.
+
+Once you have deleted all the rules that you created, the configuration will be reset and all websites will be accessible again.
