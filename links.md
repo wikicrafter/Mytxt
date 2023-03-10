@@ -60,6 +60,11 @@ Common [Questions](https://developer.mozilla.org/en-US/docs/Learn/Common_questio
 
 * [JavaScript Book](https://eloquentjavascript.net/)
 
+
+___
+
+* [Live Fedora](https://docs.fedoraproject.org/en-US/quick-docs/creating-and-using-a-live-installation-image/)
+
 <!--
 []()
 []()
