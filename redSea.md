@@ -19,3 +19,32 @@
 <p>Tourism: The Red Sea is a popular destination for tourists, with attractions such as beaches, resorts, and historical sites like the ancient city of Petra in Jordan.</p>
 </li>
 </ol>
+
+
+___
+
+Fish: 
+<br>
+<p>The Red Sea is home to a diverse array of fish species, ranging from colorful reef fish to large pelagic predators. Here are some of the most common fish found in the Red Sea:</p>
+<ol>
+<li>Red Sea Clownfish</li>
+<li>Picasso Triggerfish</li>
+<li>Emperor Angelfish</li>
+<li>Blue-spotted Stingray</li>
+<li>Red Sea Surgeonfish</li>
+<li>Yellowtail Barracuda</li>
+<li>Humphead Wrasse</li>
+<li>Titan Triggerfish</li>
+<li>Red Sea Goatfish</li>
+<li>Giant Moray Eel</li>
+<li>Yellowfin Tuna</li>
+<li>Sailfish</li>
+<li>Barramundi Cod</li>
+<li>Grouper</li>
+<li>Snapper</li>
+<li>Mackerel</li>
+<li>Trevally</li>
+<li>Jackfish</li>
+<li>Parrotfish</li>
+<li>Pufferfish</li>
+</ol>
