@@ -92,3 +92,6 @@
 
 
 choco install libreoffice -y
+
+<hr>
+choco search SoftwareName
