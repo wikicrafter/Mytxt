@@ -89,3 +89,6 @@
 </div>
 </div>
 </div>
+
+
+choco install libreoffice -y
