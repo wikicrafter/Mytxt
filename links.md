@@ -26,7 +26,8 @@ Common [Questions](https://developer.mozilla.org/en-US/docs/Learn/Common_questio
 * IT side: <hr>
 [Networking CheatSheets](https://packetlife.net/library/cheat-sheets/)
 
-
+<br>
+[Bluetooth Viewer](https://www.nirsoft.net/)
 
 
 <hr>
