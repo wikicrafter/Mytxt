@@ -165,10 +165,21 @@ ___
 echo System Information:
 echo -------------------
 
-systeminfo | findstr /C:"Host Name" /C:"OS Name" /C:"OS Version" /C:"System Manufacturer" /C:"System Model" /C:"Processor(s)" /C:"Total Physical Memory"
+systeminfo | findstr /C:"Host Name" /C:"OS Name" /C:"OS Version" /C:"System Manufacturer" /C:"System Model" /C:"Total Physical Memory"
 
 echo.
+echo CPU Information:
+echo -----------------
 
+wmic cpu get name
+
+echo.
+echo Disk Information:
+echo ------------------
+
+wmic diskdrive get name,model,size
+
+echo.
 echo Network Information:
 echo --------------------
 
@@ -176,6 +187,22 @@ ipconfig | findstr IPv4
 
 pause
 
+
 ```
+
+<p>Explanation:</p>
+<ul>
+<li>The first part of the script is the same as before, displaying the system information and adding the Total Physical Memory.</li>
+<li><code>echo.</code> - This command displays a blank line.</li>
+<li><code>echo CPU Information:</code> - This command displays a header for the CPU information section.</li>
+<li><code>echo -----------------</code> - This command displays a separator line.</li>
+<li><code>wmic cpu get name</code> - This command retrieves the name of the CPU on the system using Windows Management Instrumentation (WMI).</li>
+<li><code>echo.</code> - This command displays a blank line.</li>
+<li><code>echo Disk Information:</code> - This command displays a header for the disk information section.</li>
+<li><code>echo ------------------</code> - This command displays a separator line.</li>
+<li><code>wmic diskdrive get name,model,size</code> - This command retrieves the name, model, and size of all disk drives on the system using WMI.</li>
+</ul>
+
+
 
 
