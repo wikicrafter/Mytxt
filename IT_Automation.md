@@ -158,3 +158,24 @@ ___
 
 ___
 
+#### Here I'm gonna show basic example of CMD script which show all info about system:
+```
+@echo off
+
+echo System Information:
+echo -------------------
+
+systeminfo | findstr /C:"Host Name" /C:"OS Name" /C:"OS Version" /C:"System Manufacturer" /C:"System Model" /C:"Processor(s)" /C:"Total Physical Memory"
+
+echo.
+
+echo Network Information:
+echo --------------------
+
+ipconfig | findstr IPv4
+
+pause
+
+```
+
+
