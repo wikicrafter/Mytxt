@@ -203,6 +203,121 @@ pause
 <li><code>wmic diskdrive get name,model,size</code> - This command retrieves the name, model, and size of all disk drives on the system using WMI.</li>
 </ul>
 
+___
+
+##### Linux 
+<p>some popular Linux automation tools:</p>
+<ol>
+<li>
+<p>Ansible - A configuration management tool that automates IT infrastructure provisioning, configuration management, and application deployment.</p>
+</li>
+<li>
+<p>Puppet - A configuration management tool that automates IT infrastructure management and software deployment.</p>
+</li>
+<li>
+<p>Chef - A configuration management tool that automates IT infrastructure provisioning, configuration management, and application deployment.</p>
+</li>
+<li>
+<p>Jenkins - A popular open-source automation server that supports building, testing, and deploying software projects continuously.</p>
+</li>
+<li>
+<p>SaltStack - A configuration management and remote execution tool that automates IT infrastructure provisioning, configuration management, and application deployment.</p>
+</li>
+<li>
+<p>Terraform - An infrastructure-as-code tool that automates the provisioning and deployment of cloud resources across different cloud providers.</p>
+</li>
+<li>
+<p>Docker - A containerization platform that enables developers to package applications and their dependencies into a single unit, making it easier to deploy and manage them.</p>
+</li>
+<li>
+<p>Kubernetes - An open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications.</p>
+</li>
+<li>
+<p>Nagios - A monitoring tool that automates the detection and resolution of network and server issues.</p>
+</li>
+<li>
+<p>Zabbix - A monitoring tool that automates the detection and resolution of network and server issues.</p>
+</li>
+</ol>
+
+
+###### Script based automation:
+<p>here are some popular Linux scripting-based automation tools:</p>
+<ol>
+<li>
+<p>Bash - A shell scripting language that is commonly used for automating tasks in Linux. It can be used to write scripts to automate tasks such as system administration, file management, and software deployment.</p>
+</li>
+<li>
+<p>Python - A high-level programming language that is commonly used for automation tasks in Linux. It can be used to write scripts to automate tasks such as system administration, web scraping, and data analysis.</p>
+</li>
+<li>
+<p>Perl - A scripting language that is commonly used for automation tasks in Linux. It can be used to write scripts to automate tasks such as system administration, text processing, and network programming.</p>
+</li>
+<li>
+<p>AWK - A scripting language that is commonly used for automation tasks in Linux. It can be used to write scripts to automate tasks such as text processing and data analysis.</p>
+</li>
+<li>
+<p>Sed - A stream editor that is commonly used for automation tasks in Linux. It can be used to write scripts to automate tasks such as text processing and data transformation.</p>
+</li>
+<li>
+<p>Cron - A job scheduler that is commonly used for automation tasks in Linux. It can be used to schedule scripts and commands to run at specific times or intervals.</p>
+</li>
+<li>
+<p>Expect - A scripting language that is commonly used for automation tasks in Linux. It can be used to write scripts to automate tasks such as interactive applications, network programming, and system administration.</p>
+</li>
+</ol>
+
+###### Here is a simple script for linux bash shell:
+
+```
+#!/bin/bash
+
+echo "System Information:"
+echo "-------------------"
+
+uname -a
+lsb_release -a
+free -h | grep "Mem"
+
+echo ""
+echo "CPU Information:"
+echo "-----------------"
+
+lscpu | grep "Model name"
+
+echo ""
+echo "Disk Information:"
+echo "------------------"
+
+lsblk
+
+echo ""
+echo "Network Information:"
+echo "-------------------"
+
+ip addr show | grep "inet "
+
+echo ""
+echo "Enabled Drivers:"
+echo "-----------------"
+
+systemctl list-unit-files | grep enabled
+
+echo ""
+echo "Disabled Drivers:"
+echo "------------------"
+
+systemctl list-unit-files | grep disabled
+
+echo ""
+echo "Enabled External Ports:"
+echo "-----------------------"
+
+netstat -tuln | grep "LISTEN" | awk '{print $4}' | cut -d':' -f2 | sort | uniq | xargs -I{} echo "Port {} is open"
+
+
+
+```
 
 
 
