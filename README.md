@@ -3,6 +3,7 @@
 * [Clarify](bpuntu.md) 
 * Some [Algorithms](algorithmsDef.md)
 * Core [Hardware](coreHardware.md)
+* Git [Commands](git_common_quiz.m)
 * Basic [SSH](SSHconnection.md) command on PowerShell
 * Description of Ruby on Rails [directories](RubyOnRailsDirectoryStructure.md)
 * My [Homelab](homelab.md)
