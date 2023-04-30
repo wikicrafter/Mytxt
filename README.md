@@ -13,6 +13,7 @@
 * Net [speed](cnswwmic.md) with WMIC command
 * Flash network connection with [CMD](DATNLWCMD.md)
 * [Netsh wlan](netshwlan.md)
+* [IT Automation](IT_Automation.md)
 
 
 <hr>
