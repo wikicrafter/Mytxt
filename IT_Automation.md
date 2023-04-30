@@ -125,3 +125,36 @@ ___
 <li>Google Cloud Platform (GCP)</li>
 <li>DigitalOcean</li>
 </ul>
+
+___
+
+<p>some commonly used automation tools for Windows operating system:</p>
+<ol>
+<li>
+<p>PowerShell: This is a powerful command-line tool and scripting language designed for Windows automation. It allows you to automate a wide range of administrative tasks using scripts and cmdlets.</p>
+</li>
+<li>
+<p>Task Scheduler: This built-in Windows tool allows you to schedule tasks to run automatically at specified times or events. You can use it to automate repetitive tasks like backups, system maintenance, and software updates.</p>
+</li>
+<li>
+<p>Windows PowerShell Desired State Configuration (DSC): This is an extension to PowerShell that enables you to define the desired state of a Windows system using configuration files. It allows you to automate the deployment and configuration of software and infrastructure resources.</p>
+</li>
+<li>
+<p>Microsoft System Center Configuration Manager (SCCM): This is a comprehensive tool for managing and deploying Windows systems, applications, and updates. It allows you to automate the deployment of software, patches, and updates to multiple systems.</p>
+</li>
+<li>
+<p>Microsoft Deployment Toolkit (MDT): This is a free tool for automating the deployment of Windows operating system images. It allows you to create and customize Windows images for deployment across multiple systems.</p>
+</li>
+<li>
+<p>AutoHotkey: This is a free, open-source tool for automating repetitive tasks on Windows. It allows you to create macros and scripts to automate keystrokes, mouse clicks, and other actions.</p>
+</li>
+<li>
+<p>Macro Recorder: This is a tool that allows you to record and playback mouse and keyboard actions. It can be useful for automating repetitive tasks like data entry, form filling, and testing.</p>
+</li>
+<li>
+<p>WinAutomation: This is a commercial tool for automating Windows applications and tasks. It allows you to create macros and scripts to automate tasks like data entry, web scraping, and file management.</p>
+</li>
+</ol>
+
+___
+
