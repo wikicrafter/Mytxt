@@ -322,4 +322,33 @@ netstat -tuln | grep "LISTEN" | awk '{print $4}' | cut -d':' -f2 | sort | uniq |
 
 ___
 
+##### Cloud Automation:
+
+<p>cloud automation services:</p>
+<ol>
+<li>
+<p>AWS CloudFormation: AWS CloudFormation is an infrastructure-as-code service that allows you to provision and manage AWS resources using templates. You can use CloudFormation to automate the deployment and management of your infrastructure on AWS.</p>
+</li>
+<li>
+<p>Azure Automation: Azure Automation is a cloud-based automation service that allows you to automate the creation, deployment, and management of resources in Microsoft Azure. It provides a central location for managing automation assets such as runbooks, configurations, and modules.</p>
+</li>
+<li>
+<p>Google Cloud Deployment Manager: Google Cloud Deployment Manager is a cloud-based automation service that allows you to define and deploy your Google Cloud Platform resources using configuration files. It provides a simple and repeatable way to create and manage your infrastructure on Google Cloud Platform.</p>
+</li>
+<li>
+<p>Terraform: Terraform is an open-source infrastructure-as-code tool that allows you to define, provision, and manage infrastructure resources across multiple cloud platforms. It provides a simple and consistent way to manage your infrastructure as code.</p>
+</li>
+<li>
+<p>Ansible: Ansible is an open-source automation tool that can be used to automate the creation and management of infrastructure resources across multiple cloud platforms. It provides a simple and efficient way to manage your infrastructure as code.</p>
+</li>
+<li>
+<p>Chef: Chef is an open-source configuration management tool that can be used to automate the creation and management of infrastructure resources across multiple cloud platforms. It provides a simple and consistent way to manage your infrastructure as code.</p>
+</li>
+<li>
+<p>Puppet: Puppet is an open-source configuration management tool that can be used to automate the creation and management of infrastructure resources across multiple cloud platforms. It provides a simple and consistent way to manage your infrastructure as code.</p>
+</li>
+<li>
+<p>Kubernetes: Kubernetes is an open-source container orchestration tool that can be used to automate the deployment and management of containerized applications across multiple cloud platforms. It provides a simple and consistent way to manage your containerized applications as code.</p>
+</li>
+</ol>
 
