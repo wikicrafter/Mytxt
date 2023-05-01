@@ -352,3 +352,27 @@ ___
 </li>
 </ol>
 
+
+___
+
+Extra script for Windows, Here's an example script that will delete all files and subfolders in a specific folder permanently:
+
+``` 
+@echo off
+set folder_path=C:\path\to\your\folder
+
+echo Deleting all files and subfolders in %folder_path%...
+
+REM Delete all files in the folder
+del /f /q %folder_path%\*.*
+
+REM Delete all subfolders in the folder
+for /d %%i in (%folder_path%\*) do (
+    rd /s /q "%%i"
+)
+
+echo Deletion complete.
+
+
+```
+
