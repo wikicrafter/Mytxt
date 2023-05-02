@@ -1,4 +1,4 @@
-# Mytxt
+# Mytxt 
 
 * [Clarify](bpuntu.md) 
 * Some [Algorithms](algorithmsDef.md)
@@ -19,3 +19,5 @@
 <hr>
 
 <progress></progress>
+
+# Evrything is Only For Educational Purposes 
