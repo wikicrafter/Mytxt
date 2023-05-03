@@ -1,5 +1,4 @@
 
-
 <ol>
 <li>
 <p>Physical Layer: At the Physical Layer, it is not possible to disable any protocols as this layer deals with the physical transmission of data over the network.</p>
