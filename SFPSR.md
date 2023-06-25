@@ -1,6 +1,7 @@
 <p>Securing a network from potential security risks is an important task that requires careful planning and execution. Here are some steps you can take to secure your network:</p>
 <ol>
 <li>
+
 <p>Use strong passwords: Use strong, unique passwords for all devices on your network, including routers, modems, and other connected devices. Consider using a password manager to generate and store these passwords.</p>
 </li>
 <li>
