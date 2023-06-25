@@ -7,6 +7,7 @@
 <p>Data Link Layer: At the Data Link Layer, protocols such as Address Resolution Protocol (ARP) and Spanning Tree Protocol (STP) can be disabled to improve security.</p>
 </li>
 <li>
+
 <p>Network Layer: At the Network Layer, protocols such as Internet Control Message Protocol (ICMP) and Internet Group Management Protocol (IGMP) can be disabled to improve security.</p>
 </li>
 <li>
