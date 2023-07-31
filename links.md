@@ -69,6 +69,10 @@ ___
 
 [Clicksend](https://www.clicksend.com/eu/)
 
+<hr>
+
+[Edu GCF Global](https://edu.gcfglobal.org/en/)
+
 <!--
 []()
 []()
