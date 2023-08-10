@@ -1,3 +1,4 @@
+
 <p>A WiFi range extender, also known as a WiFi repeater, works by receiving the wireless signal from your existing router and amplifying it. Here's how it works:</p>
 <ol>
 <li>
