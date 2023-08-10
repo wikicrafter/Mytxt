@@ -14,6 +14,7 @@
 * Flash network connection with [CMD](DATNLWCMD.md)
 * [Netsh wlan](netshwlan.md)
 * [IT Automation](IT_Automation.md)
+* Basic Commands For [Fedora OS](tcff.md)
 
 
 <hr>
