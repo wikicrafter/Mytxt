@@ -1,3 +1,4 @@
+
 ## To creating your own scripting language u need several steps:
 1. Define the syntax and semantics of the language, including the data types and variables, control structures, functions, and any special features or libraries that you want the language to have. This step requires a good understanding of programming concepts and the ability to design a coherent and consistent language.
 2. Implement a lexer and parser to translate the source code into a format that can be understood by a computer, such as an abstract syntax tree (AST). This step requires a good understanding of formal language theory and the ability to use tools like lexer and parser generators (e.g. ANTLR, LEX, and YACC)
