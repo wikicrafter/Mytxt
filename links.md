@@ -77,8 +77,9 @@ ___
 [Web Dev](https://web.dev/)
 
 [Survey of stackoverflow](https://survey.stackoverflow.co/2023/#overview)
+
+[New React](https://codesandbox.io/p/sandbox/react-new?file=%2Fsrc%2Findex.js&utm_source=dotnew)
 <!--
-[]()
 []()
 []()
 []()
