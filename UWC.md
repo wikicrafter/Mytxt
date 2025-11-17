@@ -1,124 +1,144 @@
-# Useful Windows Tools
-On screen Keyboard - osk
-Calculator - calc
-WordPad - write
-Windows Media Player - wmplayer
-Windows Fax and Scan - wfs
-Snipping Tools - snippingtool
-Paint - mspaint
-Notepad - notepad
-Task manager - taskmgr
-Sticky Notes - stikynot
-Math Input Panel - mip
-Command Prompt - cmd
-Powershell - powershell
-Windows Journal  - journal
-Narrator - narrator
-Magnifier - magnify
-Edge - microsoft-edge://
-Internet Explorer - iexplore
-Bluetooth - fsquirt
-Windows Firewall - firewall.cpl
-Windows Firewall with Advanced Security -  wf.msc
-Windows Explorer - explorer
-XPS Viewer - xpsrchvw
-# Specific utilities
-Create Repair Disc - recdisc
-Folder options : - control.exe folders
-Backup and Restore - sdclt
-Remote Assistance - msra
-To Open Recently Viewed files - recent
-To Connect to a Projector - displayswitch
-To add a New Device - devicepairingwizard
-Open Ease of Access centre - utilman
-User Account Control Settings - useraccountcontrolsettings
-Windows Task scheduler - taskschd.msc
-System Restore - rstrui
-All System information - msinfo32
-Network Connections - ncpa.cpl
-System Configuration - msconfig
-Disk Cleanup - cleanmgr
-Disk Defragmenter - dfrgui
-Disk Management - diskmgmt.msc
-Malicious Software Removal Tool - mrt
-Problem Steps Recorder  - psr
-Internet Options - inetcpl.cpl
-Device Manager - devmgmt.msc
-Computer Management - compmgmt.msc
-Shared Folders  - fsmgmt.msc
-Create a shared folder wizard - shrpubw
-Backup and restore user name and passwords - credwiz
-Region and Language -  intl.cpl
-Registry Editor -  regedit
-Local Group Policy Editor - gpedit.msc
-Indexing Options - rundll32.exe shell32.dll,Control_RunDLL srchadmin.dll
-Resource Monitor -  resmon
-Sound settings - mmsys.cpl
-Troubleshooting - control.exe /name Microsoft.Troubleshooting
-User Accounts - control.exe /name Microsoft.UserAccounts
-Local Users and Groups - lusrmgr.msc
-Advanced User Accounts - netplwiz
-Time and Date - timedate.cpl
-Screen Resolution -  desk.cpl
-Color Management - colorcpl
-Event Viewer - eventvwr.msc
-Remote Desktop Connection -  mstsc
-Services  - services.msc
-Certificates - certmgr.msc
-Mouse settings - main.cpl
-Know current Windows version - winver
-Local Security Policy - secpol.msc
-Directly go to list of installed programs -  appwiz.cpl
-Windows Update settings - control update
-Administrative Tools - control admintools
-Scheduled Tasks - control schedtasks
-Control Panel Run Commands
-Control Panel - control
-Personalization & Themes - control desktop
-Personalization & Color - control color
-File explorer properties & Folder Options - control folders
-Keyboard Properties  - control keyboard
-Mouse Properties - control mouse
-Network Properties - control netconnections
-Printers Properties - control printers
-Manage current user Account - control userpasswords
-Manager all User Accounts - control userpasswords2
- Sound control panel - control mmsys.cpl sounds
- 
+# Useful Windows Tools (Run commands)
 
-# Open Folder Commands
-Open Documents Folder  - documents
-Open Videos folder  - videos
-Open Downloads Folder  - downloads
-Open Favorites Folder -  favorites
-Open Recent Folder  - recent
-Open Pictures Folder  - pictures
-System Run commands
-System Configuration -  msconfig
-System Configuration Editor  - sysedit
-System Information -  msinfo32
-System Properties  - sysdm.cpl
-System Properties (Advanced Tab) -  systempropertiesadvanced
-System Properties (Computer Name Tab)  - systempropertiescomputername
-System Properties (Hardware Tab)  - systempropertieshardware
-System Properties (Remote Tab)  - systempropertiesremote
-System Properties (System Protection Tab)  - systempropertiesprotection
-System Restore -  rstrui
-All other useful run Command shortcuts
-Display Color Calibration - dccw
-Display - dpiscaling
-Display Switch - displayswitch
-Driver Verifier Manager - verifier
-File Signature Verification - sigverif
-Game Controllers - joy.cpl
-Getting Started - gettingstarted
-iSCSI Initiator Configuration Tool - iscsicpl
-Language Pack Installer - lpksetup
-Microsoft Management Console - mmc
-Microsoft Support Diagnostic Tool - msdt
-Performance Monitor - perfmon.msc
-Phone and Modem telephon - cpl
-Phone Dialer -  dialer
-WMI Management  - wmimgmt.msc
-Windows Disc Image Burning Tool -  isoburn
-Windows DVD Maker -  dvdmaker
+A compact, easy-to-scan reference of useful Windows Run (Win+R) commands, Control Panel applets, and quick shortcuts.
+
+Use Win+R or the Start menu to run any command below.
+
+## Table of contents
+- Quick launch (common apps)
+- System & admin tools
+- Control Panel applets
+- Open special folders
+- Other useful commands
+- How to use
+- Contributing
+
+---
+
+## Quick launch (common apps)
+Open these directly from the Run box:
+
+- On-Screen Keyboard: `osk`  
+- Calculator: `calc`  
+- WordPad: `write`  
+- Windows Media Player: `wmplayer`  
+- Snipping Tool: `snippingtool`  
+- Paint: `mspaint`  
+- Notepad: `notepad`  
+- Task Manager: `taskmgr`  
+- Sticky Notes: `stikynot`  
+- Math Input Panel: `mip`  
+- Command Prompt: `cmd`  
+- PowerShell: `powershell`  
+- Microsoft Edge: `microsoft-edge://`  
+- Internet Explorer: `iexplore`  
+- Bluetooth File Transfer: `fsquirt`  
+- XPS Viewer: `xpsrchvw`
+
+---
+
+## System & admin tools
+Management consoles and system utilities:
+
+- System Information: `msinfo32`  
+- Device Manager: `devmgmt.msc`  
+- Disk Management: `diskmgmt.msc`  
+- Services: `services.msc`  
+- Event Viewer: `eventvwr.msc`  
+- Task Scheduler: `taskschd.msc`  
+- Computer Management: `compmgmt.msc`  
+- Local Group Policy Editor: `gpedit.msc`  
+- Local Users and Groups: `lusrmgr.msc`  
+- Registry Editor: `regedit`  
+- Resource Monitor: `resmon`  
+- Performance Monitor: `perfmon.msc`  
+- Disk Cleanup: `cleanmgr`  
+- Optimize Drives (Defragmenter): `dfrgui`  
+- Windows Firewall (Control Panel): `firewall.cpl`  
+- Windows Firewall with Advanced Security: `wf.msc`
+
+---
+
+## Control Panel applets (Run commands)
+Direct commands to open Control Panel sections:
+
+- Control Panel: `control`  
+- Personalization & Themes: `control desktop`  
+- Color & Appearance: `control color`  
+- Mouse properties: `control mouse` or `main.cpl`  
+- Keyboard properties: `control keyboard`  
+- Sound settings: `mmsys.cpl` or `control mmsys.cpl sounds`  
+- Network Connections: `ncpa.cpl` or `control netconnections`  
+- Printers: `control printers`  
+- Programs and Features: `appwiz.cpl`  
+- Internet Options: `inetcpl.cpl`  
+- Region and Language: `intl.cpl`  
+- User Accounts: `control.exe /name Microsoft.UserAccounts` or `netplwiz`  
+- Credential Manager (backup/restore): `credwiz`  
+- Remote Assistance: `msra`  
+- Remote Desktop Connection: `mstsc`  
+- Certificate Manager: `certmgr.msc`
+
+---
+
+## Open special folders (Run names)
+Quick names to open common user folders:
+
+- Documents: `documents`  
+- Downloads: `downloads`  
+- Pictures: `pictures`  
+- Videos: `videos`  
+- Favorites: `favorites`  
+- Recent items: `recent`
+
+---
+
+## Other useful commands & utilities
+Handy additional commands:
+
+- System Configuration: `msconfig` (System Configuration Editor: `sysedit`)  
+- System Properties: `sysdm.cpl`  
+  - Advanced tab: `systempropertiesadvanced`  
+  - Computer Name: `systempropertiescomputername`  
+  - Hardware: `systempropertieshardware`  
+  - Remote: `systempropertiesremote`  
+  - System Protection: `systempropertiesprotection`  
+- System Restore: `rstrui`  
+- Create Repair Disc: `recdisc`  
+- Backup and Restore: `sdclt`  
+- Troubleshooting: `control.exe /name Microsoft.Troubleshooting`  
+- Problem Steps Recorder: `psr`  
+- Malicious Software Removal Tool: `mrt`  
+- Indexing Options: `rundll32.exe shell32.dll,Control_RunDLL srchadmin.dll`  
+- Display switch (projector): `displayswitch`  
+- Screen resolution: `desk.cpl`  
+- Language pack installer: `lpksetup`  
+- Windows Disc Image Burner: `isoburn`  
+- Windows DVD Maker: `dvdmaker`  
+- Driver Verifier Manager: `verifier`  
+- File Signature Verification: `sigverif`  
+- iSCSI Initiator: `iscsicpl`  
+- Phone and Dialer: `dialer`  
+- WMI Management: `wmimgmt.msc`
+
+---
+
+## How to use
+1. Press Win+R to open the Run dialog.  
+2. Type (or paste) any command from this list and press Enter.  
+3. For administrative utilities, run as Administrator (right-click the app in Start and choose "Run as administrator" or run an elevated prompt first).
+
+---
+
+## Contributing
+This is a community-maintained reference. To improve:
+- Add missing commands
+- Correct command names or notes
+- Reorganize categories (for example by Windows version)
+
+Please open a Pull Request with any improvements.
+
+---
+
+## License
+Add or keep your repository license here (e.g., MIT). If you prefer another license, update accordingly.
