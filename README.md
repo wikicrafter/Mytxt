@@ -15,6 +15,7 @@
 * [Netsh wlan](netshwlan.md)
 * [IT Automation](IT_Automation.md)
 * Basic Commands For [Fedora OS](tcff.md)
+* Useful Windows [Run commands](UWC.md)
 
 
 <hr>
