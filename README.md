@@ -34,6 +34,7 @@ This repository contains various notes, scripts, and cheat sheets organized by c
 - [Kali Linux Tools](Security/BK.md)
 - [Onion SLS MOS](Security/OnionSLSMOS.md)
 - [SFPSR](Security/SFPSR.md)
+- [Security Essentials](Security/SecurityEssentials.md)
 
 ### [Programming](Programming/)
 - [Bash Scripting](Programming/BashScript.md)
@@ -50,6 +51,7 @@ This repository contains various notes, scripts, and cheat sheets organized by c
 - [Algorithms](Programming/algorithmsDef.md)
 - [Git Common Quiz](Programming/git_common_quiz.md)
 - [SQL Chapters](Programming/SQLChapters/)
+- [Programming Essentials](Programming/ProgrammingEssentials.md)
 
 ### [OS](OS/)
 - [Advanced Linux](OS/advanceLinux.md)
