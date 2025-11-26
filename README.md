@@ -48,6 +48,8 @@ This repository contains various notes, scripts, and cheat sheets organized by c
 - [ERC20](Programming/erc20.md)
 - [Payment Gateway](Programming/paymentGateway.md)
 - [Algorithms](Programming/algorithmsDef.md)
+- [Git Common Quiz](Programming/git_common_quiz.md)
+- [SQL Chapters](Programming/SQLChapters/)
 
 ### [OS](OS/)
 - [Advanced Linux](OS/advanceLinux.md)
@@ -66,6 +68,7 @@ This repository contains various notes, scripts, and cheat sheets organized by c
 - [Windows Utility](OS/windows.utility.md)
 - [WTUFE](OS/wtufe.md)
 - [DADFWOS](OS/dadfwos.md)
+- [Run Commands](OS/RunCommands.txt)
 
 ### [Misc](Misc/)
 - [My ToDo List](Misc/MyToDoList.md)
@@ -90,6 +93,9 @@ This repository contains various notes, scripts, and cheat sheets organized by c
 - [Adhvetxonhcom](Misc/adhvetxonhcom.md)
 - [LVNCS](Misc/LVNCS.md)
 - [Browser Extensions](Misc/MyBrowserEctensions.md)
+- [ChatGPT Jailbreaks](Misc/cgptcc.md)
+- [Core Hardware](Misc/coreHardware.md)
+- [IT Automation](Misc/IT_Automation.md)
 
 <hr>
 
