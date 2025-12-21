@@ -27,6 +27,7 @@ This repository contains various notes, scripts, and cheat sheets organized by c
 - [IT Security Notes](Security/ITSecurityShortInfo.md)
 - [Drive Encryption](Security/DriveEncrypter.md)
 - [Kali on WSL](Security/KaliWSl.md)
+- [Linux Password Recovery](Security/LinuxPasswordRecovery.md)
 - [Penetration Testing](Security/pentest.md)
 - [Pentesting Notes](Security/pent.md)
 - [Security Tricks on Windows](Security/securitytricksonwin.txt)
