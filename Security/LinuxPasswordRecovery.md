@@ -1161,6 +1161,23 @@ Search YouTube for:
 
 ---
 
+---
+
 **Remember:** This guide is for educational purposes and legitimate system recovery only. Always ensure you have proper authorization before attempting password recovery on any system.
 
 **Good luck, and welcome back to your Linux system! 🐧**
+
+---
+
+## 🚀 Keep This Project Going
+
+Creating comprehensive guides like this takes time, research, and lots of coffee! ☕
+
+**Here's how you can help:**
+
+🌟 **Star this repository** - It's free and helps others find these guides  
+💝 **[Support on Ko-fi](https://ko-fi.com/gigaa)** - Buy me a coffee (or energy drink!) to fuel more content  
+👤 **Follow on GitHub** - Be the first to know about new guides and updates  
+
+*Every star, every coffee, every follow makes a difference. Thank you for your support!* 🙏✨
+

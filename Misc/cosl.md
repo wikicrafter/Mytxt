@@ -7,3 +7,18 @@
 5. Document the language for others to use and potentially contribute to the development. This step requires the ability to write clear and concise documentation and the willingness to engage with the community.
 
 It's a challenging task that requires a lot of time, effort and expertise in many areas of computer science. It's also worth noting that creating a new language may not be the best solution to solve a problem and you may consider using an existing language instead.
+
+---
+
+## 🚀 Keep This Project Going
+
+Creating comprehensive guides like this takes time, research, and lots of coffee! ☕
+
+**Here's how you can help:**
+
+🌟 **Star this repository** - It's free and helps others find these guides  
+💝 **[Support on Ko-fi](https://ko-fi.com/gigaa)** - Buy me a coffee (or energy drink!) to fuel more content  
+👤 **Follow on GitHub** - Be the first to know about new guides and updates  
+
+*Every star, every coffee, every follow makes a difference. Thank you for your support!* 🙏✨
+

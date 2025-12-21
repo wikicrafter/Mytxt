@@ -6,3 +6,18 @@
 5. The data path refers to the way data is transferred between the different components of the computer, such as between the CPU and memory, or between memory and the I/O devices. It includes the buses, which are the physical connections between the components, and the protocols, which are the rules for how data is transferred over the buses.
 
 Understanding low-level computer architecture is important for creating efficient and optimized code, as well as for understanding the behavior and limitations of a system.
+
+---
+
+## 🚀 Keep This Project Going
+
+Creating comprehensive guides like this takes time, research, and lots of coffee! ☕
+
+**Here's how you can help:**
+
+🌟 **Star this repository** - It's free and helps others find these guides  
+💝 **[Support on Ko-fi](https://ko-fi.com/gigaa)** - Buy me a coffee (or energy drink!) to fuel more content  
+👤 **Follow on GitHub** - Be the first to know about new guides and updates  
+
+*Every star, every coffee, every follow makes a difference. Thank you for your support!* 🙏✨
+

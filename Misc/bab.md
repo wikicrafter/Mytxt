@@ -12,3 +12,17 @@
 4. DLT can be used for a wide range of applications beyond blockchain, such as supply chain management, voting systems, and digital identity management. In these applications, DLT allows for secure, transparent and tamper-proof recording of transactions.
 5. It's also worth noting that there are different types of distributed ledgers, such as public and private. Public ledgers are open to anyone, and are the most common type of blockchain. Private ledgers are only accessible to a select group of participants and are typically used for enterprise solutions or consortiums.
 
+---
+
+## 🚀 Keep This Project Going
+
+Creating comprehensive guides like this takes time, research, and lots of coffee! ☕
+
+**Here's how you can help:**
+
+🌟 **Star this repository** - It's free and helps others find these guides  
+💝 **[Support on Ko-fi](https://ko-fi.com/gigaa)** - Buy me a coffee (or energy drink!) to fuel more content  
+👤 **Follow on GitHub** - Be the first to know about new guides and updates  
+
+*Every star, every coffee, every follow makes a difference. Thank you for your support!* 🙏✨
+

@@ -29,3 +29,18 @@ Objects: Objects are used to store collections of key-value pairs. They are simi
 <br>
 
 DOM manipulation: The Document Object Model (DOM) is a tree-like structure that represents the HTML of a webpage. You can use JavaScript to manipulate the DOM and change the structure, style, or content of a webpage.
+
+---
+
+## 🚀 Keep This Project Going
+
+Creating comprehensive guides like this takes time, research, and lots of coffee! ☕
+
+**Here's how you can help:**
+
+🌟 **Star this repository** - It's free and helps others find these guides  
+💝 **[Support on Ko-fi](https://ko-fi.com/gigaa)** - Buy me a coffee (or energy drink!) to fuel more content  
+👤 **Follow on GitHub** - Be the first to know about new guides and updates  
+
+*Every star, every coffee, every follow makes a difference. Thank you for your support!* 🙏✨
+

@@ -28,6 +28,8 @@ This repository contains various notes, scripts, and cheat sheets organized by c
 - [Drive Encryption](Security/DriveEncrypter.md)
 - [Kali on WSL](Security/KaliWSl.md)
 - [Linux Password Recovery](Security/LinuxPasswordRecovery.md)
+- [macOS Password Recovery](Security/MacOSPasswordRecovery.md)
+- [Windows Password Recovery](Security/WindowsPasswordRecovery.md)
 - [Penetration Testing](Security/pentest.md)
 - [Pentesting Notes](Security/pent.md)
 - [Security Tricks on Windows](Security/securitytricksonwin.txt)

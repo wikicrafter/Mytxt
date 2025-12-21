@@ -10,3 +10,17 @@ To configure an OpenVPN server for 30 clients, you will need to follow these gen
 
 It's important to note that this is a high-level overview and the specific steps of configuring an OpenVPN server can vary depending on the operating system and version of OpenVPN being used. Also, it's highly recommended to consult with a professional if you are not familiar with the topic. It's also important to keep in mind that this setup is not recommended for large scale usage, instead you should consider using a VPN gateway service that can handle a large number of connections.
 
+---
+
+## 🚀 Keep This Project Going
+
+Creating comprehensive guides like this takes time, research, and lots of coffee! ☕
+
+**Here's how you can help:**
+
+🌟 **Star this repository** - It's free and helps others find these guides  
+💝 **[Support on Ko-fi](https://ko-fi.com/gigaa)** - Buy me a coffee (or energy drink!) to fuel more content  
+👤 **Follow on GitHub** - Be the first to know about new guides and updates  
+
+*Every star, every coffee, every follow makes a difference. Thank you for your support!* 🙏✨
+

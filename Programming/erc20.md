@@ -61,3 +61,17 @@ It's important to note that different DEXs have different trading fees, and you 
 * Token Auditing: As ERC20 tokens are implemented as smart contracts, it is important to ensure that the code is secure and free of errors. This can be done through a process called smart contract auditing, which involves reviewing the code and testing the contract for vulnerabilities.
 * Token Upgradability: ERC20 tokens are implemented as smart contracts, which are immutable once deployed. This means that any bugs or errors in the code cannot be fixed after deployment. To solve this problem, some projects are using a technique called Token Upgradability, which allows for the code of the contract to be updated after deployment, while still preserving the existing token holders' balance and right.
 
+---
+
+## 🚀 Keep This Project Going
+
+Creating comprehensive guides like this takes time, research, and lots of coffee! ☕
+
+**Here's how you can help:**
+
+🌟 **Star this repository** - It's free and helps others find these guides  
+💝 **[Support on Ko-fi](https://ko-fi.com/gigaa)** - Buy me a coffee (or energy drink!) to fuel more content  
+👤 **Follow on GitHub** - Be the first to know about new guides and updates  
+
+*Every star, every coffee, every follow makes a difference. Thank you for your support!* 🙏✨
+

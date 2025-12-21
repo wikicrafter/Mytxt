@@ -117,5 +117,17 @@ Here are some commonly used network troubleshooting commands for Linux:
 
 These commands are most commonly used for network troubleshooting in Linux, but there are many other command line tools available to help you troubleshoot network issues. It's always helpful to have a good understanding of the network infrastructure and topology in order to use these commands effectively.
 
+---
 
+## 🚀 Keep This Project Going
+
+Creating comprehensive guides like this takes time, research, and lots of coffee! ☕
+
+**Here's how you can help:**
+
+🌟 **Star this repository** - It's free and helps others find these guides  
+💝 **[Support on Ko-fi](https://ko-fi.com/gigaa)** - Buy me a coffee (or energy drink!) to fuel more content  
+👤 **Follow on GitHub** - Be the first to know about new guides and updates  
+
+*Every star, every coffee, every follow makes a difference. Thank you for your support!* 🙏✨
 
